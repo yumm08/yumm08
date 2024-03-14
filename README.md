@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=cff5ce&height=150&section=header&text=Hi!%20I'm%20YunjiL&fontSize=50&fontAlign=30&fontColor=1b421a&desc=Welcome%20to%20my%20Github&descSize=20&descAlign=40&descAlignY=75)
 
 <!--
 **yunjiL/yunjiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br></br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luj2868)](https://solved.ac/luj2868/)
+<br></br>
+![yunjiL's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjiL&show_icons=true&theme=radical)
+
