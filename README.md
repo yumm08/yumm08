@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## <a href="https://viridian-country-387.notion.site/YUNJI-LEE-S-PORTFOLIO-c392a76ee1a544189917b635ab24cc7a?pvs=4" >Notion Portfolio</a>
 
 ## ⌛History
-2023.07 - 2024.06 삼성 청년 SW 아카데미 10기
+2023.07 - 2024.06 삼성 청년 SW 아카데미 10기<br/>
 2018.03 - 2023.08 세종대학교 컴퓨터공학과
 
 ## ✨Tech Skill
