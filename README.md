@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👩‍💻 **배우고자 하는 자세**로 임하는 주니어 개발자 이윤지입니다.
+### 👩‍💻 **배우고자 하는 자세**로 임하는 주니어 개발자입니다.
 
 - 도전적인 목표를 통해 성장하고 주체적으로 학습합니다.
 - 다양한 프로젝트를 통해 전공자 뿐 아니라 비전공자 팀원과의 **커뮤니케이션 능력**을 키웠습니다.
 - 사용자 관점에서 편리한 서비스를 개발하고 싶습니다.
 
-## <a href="https://viridian-country-387.notion.site/YUNJI-LEE-S-PORTFOLIO-c392a76ee1a544189917b635ab24cc7a?pvs=4" >Notion Portfolio</a>
 
 ## ⌛History
 2023.07 - 2024.06 삼성 청년 SW 아카데미 10기<br/>
-2018.03 - 2023.08 세종대학교 컴퓨터공학과
+2018.03 - 2023.08 OO대학교 컴퓨터공학과
 
 ## ✨Tech Skill
 ⚡ Used as main
