@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=cff5ce&height=150&section=header&text=Hi!%20I'm%20YunjiL&fontSize=50&fontAlign=30&fontColor=1b421a&desc=Welcome%20to%20my%20Github&descSize=20&descAlign=40&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=cff5ce&height=150&section=header&text=Hi!%20I'm%20YUMM2&fontSize=50&fontAlign=30&fontColor=1b421a&desc=Welcome%20to%20my%20Github&descSize=20&descAlign=40&descAlignY=75)
 
 <!--
 **yunjiL/yunjiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
