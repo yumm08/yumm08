@@ -98,5 +98,5 @@ INFRA : VPN, Jenkins, Docker, Sonarqube
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luj2868)](https://solved.ac/luj2868/)
 
 ## ✨GitHub Stats
-![yunjiL's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjiL&show_icons=true&theme=radical)
+![yunjiL's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumm08&show_icons=true&theme=radical)
 
