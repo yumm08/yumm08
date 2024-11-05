@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## ⌛History
 2023.07 - 2024.06 삼성 청년 SW 아카데미 10기<br/>
-2018.03 - 2023.08 OO대학교 컴퓨터공학과
+2018.03 - 2023.08 세종대학교 컴퓨터공학과
 
 ## ✨Tech Skill
 ⚡ Used as main
