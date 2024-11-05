@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=cff5ce&height=150&section=header&text=Hi!%20There&fontSize=50&fontAlign=30&fontColor=1b421a&desc=Welcome%20to%20my%20Github&descSize=20&descAlign=40&descAlignY=75)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=cff5ce&height=150&section=header&text=Hi!%20I'm%20YunJi&fontSize=50&fontAlign=30&fontColor=1b421a&desc=Welcome%20to%20my%20Github&descSize=20&descAlign=40&descAlignY=75)
 <!--
 **yunjiL/yunjiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👩‍💻 **배우고자 하는 자세**로 임하는 주니어 개발자입니다.
+### 👩‍💻 **배우고자 하는 자세**로 임하는 주니어 개발자 이윤지입니다.
 
 - 도전적인 목표를 통해 성장하고 주체적으로 학습합니다.
 - 다양한 프로젝트를 통해 전공자 뿐 아니라 비전공자 팀원과의 **커뮤니케이션 능력**을 키웠습니다.
