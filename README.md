@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 다양한 프로젝트를 통해 전공자 뿐 아니라 비전공자 팀원과의 **커뮤니케이션 능력**을 키웠습니다.
 - 사용자 관점에서 편리한 서비스를 개발하고 싶습니다.
 
+## <a href="https://viridian-country-387.notion.site/YUNJI-LEE-S-PORTFOLIO-c392a76ee1a544189917b635ab24cc7a?pvs=4" >Notion Portfolio</a>
 
 ## ⌛History
 2023.07 - 2024.06 삼성 청년 SW 아카데미 10기<br/>
